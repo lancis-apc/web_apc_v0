@@ -6,3 +6,9 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# project
+_site
+.sass-cache
+.vagrant
+.jekyll-metadata
