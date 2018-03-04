@@ -28,9 +28,14 @@ Esta es la página del Área de Planeación Colaborativa de LANCIS, aquí encont
 - Acceso a html con jerarquías
 
 ### Manuales
+- Manual para ligar en el metro
+- Manual para hacer tamales estilo Guerrero
+-
 
 ### Repositorios Github (creados por APC)
 Incluir repositorio y producto (página web)
+
+<br>
 
 Fecha | Repositorio | Descripción | Responsable
 ---| --- | --- | ---
