@@ -4,8 +4,6 @@ Title: "Área de Planeación Colaborativa"
 ---
 
 
-# Área de Planeación Colaborativa
-
 Esta es la página del Área de Planeación Colaborativa de LANCIS, aquí encontrarás la documentación digital de uso interno de nuestra área.
 
 * * *
