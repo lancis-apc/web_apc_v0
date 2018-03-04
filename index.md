@@ -28,7 +28,7 @@ Esta es la página del Área de Planeación Colaborativa de LANCIS, aquí encont
 - Acceso a html con jerarquías
 
 ### Manuales
-- Manual para ligar en el metro
+- Manual para hacer nudos de corbata
 - Manual para hacer tamales estilo Guerrero
 -
 
