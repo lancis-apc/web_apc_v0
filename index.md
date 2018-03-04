@@ -30,7 +30,7 @@ Esta es la página del Área de Planeación Colaborativa de LANCIS, aquí encont
 ### Manuales
 - Manual para hacer nudos de corbata
 - Manual para hacer tamales estilo Guerrero
--
+
 
 ### Repositorios Github (creados por APC)
 Incluir repositorio y producto (página web)
