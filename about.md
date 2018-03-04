@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: y dime…
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+¿ya contaste tus horas de trabajo?
