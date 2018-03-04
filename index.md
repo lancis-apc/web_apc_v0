@@ -1,6 +1,5 @@
 ---
 layout: page
-Title: "Área de Planeación Colaborativa"
 ---
 
 
